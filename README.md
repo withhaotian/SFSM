@@ -1,3 +1,1 @@
 # SFSM
-
-### IEEE ICWS 2024
